@@ -1,62 +1,86 @@
-# 🌎 LS World - Le RP sérieux sur GTA V 🚗🎮  
+# 🌍 LS World — Serveur RolePlay GTA V
 
-Bienvenue sur **LS World**, un serveur **RolePlay whitelist** pensé pour offrir une immersion réaliste et durable dans l’univers de GTA V RP.  
+![Status](https://img.shields.io/badge/Status-En%20Developpment-blue)
+![FiveM](https://img.shields.io/badge/FiveM-Compatible-green)
+![RP](https://img.shields.io/badge/RP-Whitelist-important)
+![License](https://img.shields.io/badge/Licence-Private-red)
 
----
-
-## À propos de LS World 🌟  
-
-LS World est une expérience RP unique, développée sur-mesure pour garantir qualité et fluidité.  
-Notre objectif : proposer un **RP sérieux et encadré**, où chaque joueur peut construire son histoire dans un environnement immersif et vivant.  
+LS World est un serveur **RolePlay whitelist** sur GTA V, conçu pour offrir une expérience immersive, réaliste et durable, orientée vers un RP sérieux et structuré.
 
 ---
 
-## Fonctionnalités principales 🌐  
+## 📖 À propos
 
-- 📱 **Téléphone complet** avec applications RP intégrées  
-- 🎒 **Inventaire ergonomique** et intuitif  
-- 📂 **Librairie de menus personnalisée** fluide et optimisée  
-- 🏙️ **Mapping travaillé** pour renforcer l’immersion  
-- 👔 **Métiers légaux et illégaux** variés et équilibrés  
-- ⚖️ RP **whitelist sérieux** avec une modération attentive  
-
-*(Tous nos systèmes sont faits maison, garantissant une expérience unique !)*  
+LS World est un projet développé sur mesure, avec une attention particulière portée à la qualité du code, à la stabilité des systèmes et à la cohérence du gameplay.  
+L’objectif est de fournir un environnement crédible et évolutif, permettant à chaque joueur de construire son histoire dans un cadre encadré et équilibré.
 
 ---
 
-## Pour commencer 🚀  
+## ⚙️ Fonctionnalités
 
-### Prérequis 🛠️  
-Pour rejoindre LS World, vous aurez besoin de :  
+- 📱 Téléphone RP complet avec applications intégrées  
+- 🎒 Inventaire moderne et ergonomique  
+- 🧩 Librairie de menus personnalisée, fluide et optimisée  
+- 🏙️ Mapping travaillé pour renforcer l’immersion  
+- 👔 Métiers légaux et illégaux équilibrés  
+- ⚖️ Whitelist stricte et modération active  
 
-- GTA V sur PC 🖥️  
-- Le client FiveM [Télécharger ici](https://fivem.net/)  
-- Une validation whitelist via notre **Discord** (lien ci-dessous)  
-
----
-
-### Installation 🎮  
-
-1. Téléchargez et installez le client [FiveM](https://fivem.net/)  
-2. Rejoignez notre Discord pour passer la **whitelist** 📝  
-3. Lancez FiveM, recherchez **LS World** dans la liste des serveurs et plongez dans l’aventure !  
+> Tous les systèmes sont développés en interne afin de garantir une expérience maîtrisée et unique.
 
 ---
 
-## Contribuer 🤝  
+## 🚀 Accès au serveur
 
-LS World est un projet en constante évolution. Vous pouvez contribuer en :  
-- Participant aux événements RP et en proposant vos idées 💡  
-- Partageant vos retours via notre Discord  
-- Suggérant des améliorations pour enrichir l’expérience de jeu  
+### 🛠️ Prérequis
 
----
-
-## Nous contacter 📧  
-
-👉 **Discord** : bientôt disponible  
-👉 **Serveur FiveM** : [LS World dans la liste FiveM]  
+- GTA V (PC)  
+- FiveM → https://fivem.net  
+- Validation whitelist via notre Discord  
 
 ---
 
-🌟 Rejoignez LS World dès maintenant et vivez un RP sérieux, immersif et unique sur GTA V ! 🎉  
+### 🎮 Installation
+
+1. Installer FiveM  
+2. Rejoindre le Discord LS World et compléter la whitelist  
+3. Lancer FiveM et rechercher **LS World** dans la liste des serveurs  
+
+---
+
+## 🤝 Contribution
+
+LS World est un projet en constante évolution.  
+Les contributions sont possibles via :
+
+- Retours et suggestions  
+- Participation active aux scènes RP  
+- Propositions d’améliorations et d’idées  
+
+Merci de respecter la vision RP et les règles du serveur lors de toute contribution.
+
+---
+
+## 🗺️ Roadmap
+
+- [ ] Optimisation des performances serveur  
+- [ ] Nouvelles activités RP  
+- [ ] Amélioration des systèmes existants  
+- [ ] Événements RP scénarisés  
+
+---
+
+## 📬 Liens
+
+- 💬 **Discord** : bientôt disponible  
+- 🌐 **Serveur FiveM** : LS World (liste publique FiveM)  
+
+---
+
+## 📄 Licence
+
+Ce projet est privé.  
+Toute reproduction, modification ou redistribution sans autorisation est interdite.
+
+---
+
+✨ **LS World** — Une expérience RolePlay sérieuse et immersive sur GTA V.
